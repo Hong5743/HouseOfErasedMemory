@@ -100,3 +100,6 @@ InitTestScene*.unity*
 
 Assets/Fonts/*.asset
 Assets/Fonts/*.asset.meta
+
+Assets/Tiles/*.asset
+Assets/Tiles/*.asset.meta
